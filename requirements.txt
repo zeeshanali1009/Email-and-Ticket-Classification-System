@@ -1,7 +1,6 @@
-fastapi
-uvicorn
-gunicorn
+streamlit
 scikit-learn
 pandas
 numpy
 joblib
+nltk

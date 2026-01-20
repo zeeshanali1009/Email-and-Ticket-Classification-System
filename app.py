@@ -1,3 +1,9 @@
+import nltk
+
+# Download required NLTK data
+nltk.download('punkt')
+nltk.download('stopwords')
+
 import sys
 import os
 
