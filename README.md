@@ -74,3 +74,5 @@ Support ticket routing
 Spam detection
 Complaint categorization
 Freelance rate: $150–400 depending on number of categories & UI polish
+
+https://email-and-ticket-classification-system-dirosfhvxedkpuhdj6hbjs.streamlit.app/
